@@ -1,0 +1,14 @@
+com/jhipcon/cucumber/CucumberTest.class
+com/jhipcon/cucumber/stepdefs/StepDefs.class
+com/jhipcon/web/rest/TestUtil$ZonedDateTimeMatcher.class
+com/jhipcon/web/rest/LogsResourceIntTest.class
+com/jhipcon/web/rest/errors/ExceptionTranslatorTestController$TestResponseStatusException.class
+com/jhipcon/web/rest/util/PaginationUtilUnitTest.class
+com/jhipcon/web/rest/errors/ExceptionTranslatorIntTest.class
+com/jhipcon/web/rest/SessionResourceIntTest.class
+com/jhipcon/web/rest/TestUtil.class
+com/jhipcon/config/WebConfigurerTestController.class
+com/jhipcon/web/rest/errors/ExceptionTranslatorTestController$TestDTO.class
+com/jhipcon/web/rest/SpeakerResourceIntTest.class
+com/jhipcon/web/rest/errors/ExceptionTranslatorTestController.class
+com/jhipcon/config/WebConfigurerTest.class
